@@ -1,4 +1,4 @@
-package com.myth.DP01principle.singleResponsibility;
+package singleResponsibility;
 
 /**
  * @author myth
