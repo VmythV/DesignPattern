@@ -1,4 +1,4 @@
-package singleResponsibility;
+package SingleResponsibility;
 
 /**
  * @author myth

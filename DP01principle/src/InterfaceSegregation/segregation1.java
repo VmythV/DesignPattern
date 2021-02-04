@@ -1,4 +1,4 @@
-package interfacesegregation;
+package InterfaceSegregation;
 
 /**
  * @author myth
