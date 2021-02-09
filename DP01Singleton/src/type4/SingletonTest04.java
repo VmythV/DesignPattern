@@ -24,7 +24,7 @@ class Singleton {
     private Singleton() {
     }
 
-    //提供一个静态的公有方法，加入同步处理的代码，解决线程安全问题
+    //提供一个静态的公有方法，加入同步处理的代码synchronized，解决线程安全问题
     //即懒汉式
     public static synchronized Singleton getInstance() {
         if (instance == null) {
