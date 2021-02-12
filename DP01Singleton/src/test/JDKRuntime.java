@@ -7,7 +7,7 @@ package test;
  */
 public class JDKRuntime {
     public static void main(String[] args) {
-        Runtime runtime = Runtime.getRuntime();
+        Runtime runtime = Runtime.getRuntime();//看Runtime源码
         MyRuntime myRuntime = MyRuntime.getMyRuntime();
     }
 }
